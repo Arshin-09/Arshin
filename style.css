@@ -56,7 +56,7 @@ font-size: 18px;
 color:red;
 }
 .main-btn{
- width: fit-content;
+ width: max-content;
 text-decoration: none;
     border: 1px solid red;
     color: red;
