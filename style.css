@@ -138,13 +138,14 @@ background-size: cover;
 background-color: var(--bs-dark);
 }
 .menu_wrapper .row{
-padding-top: 400px;
+padding-top: 150px;
+	padding-bottom:100px;
 }
 .menu_wrapper .card{
 background-color: var(--bs-dark);
 }
 .menu_wrapper .card h3{
-color: var(--bs-light);
+color: tomato;
 }
 .menu_wrapper .card p{
 color: var(--bs-light);
