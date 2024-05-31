@@ -223,7 +223,7 @@ width: 100px;
 .footer_wrapper .social-icon li{
 margin: 6px;
 }
-.footer_wrapper .social-icon a{
+.footer_wrapper .li a{
 padding: 6px;
 width: 35px;
 height: 35px;
@@ -236,7 +236,7 @@ text-align: center;
 border-radius: 100%;
 transition: transform background-color border color;
 }
-.footer_wrapper .social-icon a:hover{
+.footer_wrapper .li a:hover{
 background-color: red;
 border-color: red;
 color: white;
